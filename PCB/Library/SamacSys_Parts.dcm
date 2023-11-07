@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP AHQSS105DM2FA0G
+D General Purpose Relays Commercial RelayRated Carrying Current :16AType of Sealing : Case Sealed TypeNumber of pole : one poleCoil Voltage : 5VCoil Type : Standard DC CoilContact Form : Form A Coil Insulation System : F- Class F (155C)
+K
+F 
+$ENDCMP
+#
+$CMP 2SC2713-BL,LF
+D Bipolar Transistors - BJT NPN Epitaxial Transistor
+K
+F https://toshiba.semicon-storage.com/ap-en/product/bipolar-transistor/bipolar-transistor/detail.2SC2712.html
+$ENDCMP
+#
+$CMP LM7805MP_NOPB
+D 1.5-A, Wide VIN Fixed Voltage Regulators
+K
+F http://www.ti.com/lit/gpn/lm7800
+$ENDCMP
+#
+$CMP 2071556-3
+D PCB Mount Relay, 12V dc Coil, 16A Switching Current, SPST
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FOJS_16A_0821%7F3%7Fpdf%7FEnglish%7FENG_DS_OJS_16A_0821_3.pdf%7F2071556-3
+$ENDCMP
+#
+$CMP 0PTF0078P
+D FUSEHOLDER-OPEN 5X20MM UL94V0 PITCH 22/6
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Littelfuse%20PDFs/PTF075_77_78.pdf
+$ENDCMP
+#
+#End Doc Library
